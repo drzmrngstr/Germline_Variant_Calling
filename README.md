@@ -1,4 +1,4 @@
-GERMLINE VARIANT CALLING USING GATK GOODPRACTICE
+#GERMLINE VARIANT CALLING USING GATK GOODPRACTICE
 
 📌 Overview
 
@@ -181,4 +181,3 @@ Bioinformatics | Computational Biology | NGS Data Analysis
 
 ⭐ If you use this pipeline, consider giving the repository a star!
 
-# Germline_Variant_Calling
